@@ -23,7 +23,7 @@ Your quick form should create an `observation` log with the following required a
 - `location` (optional): A location asset that represents where this weather event ocurred.
 - `notes`: (optional) Additional notes about the weather event.
 
-Finally, open an issue in this challenge repository with a "feature request" outlining a feature that could be added to the weather quick form. This only needs to be an example, but be creative, the feature should be a practical example of something useful for a farm. Outline the use case, considerations and required changes of the feature in the issue description.
+Finally, open an issue in this challenge repository with a "feature request" outlining a feature that could be added to the weather quick form. This only needs to be an example, but be creative, the feature should be a practical example of something useful for a farm. Outline the use case, considerations and changes required to implement the feature in the issue description.
 
 Some ideas:
 - Display the last-recorded weather event.
